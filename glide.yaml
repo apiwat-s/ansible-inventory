@@ -1,4 +1,4 @@
-package: github.com/zanroo/zanroo-inventory
+package: github.com/apiwat-s/zanroo-inventory
 import: []
 testImport:
 - package: github.com/stretchr/testify
